@@ -26,5 +26,5 @@ print(func_mat.calcular_factorial(5)) #forma larga con alias
 print(mi_paquete.funciones_matematicas.frase) #forma larga
 print(func_mat.frase) #forma larga con alias
 
-texto = 'gracias'
+texto = 'gracias totales'
 print(contar_letras(texto))
